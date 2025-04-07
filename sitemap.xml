@@ -12,6 +12,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/add-new-post/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -23,6 +28,11 @@
     <url>
         <loc>
             http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/fahad97861/
         </loc>
     </url>
     <url>
